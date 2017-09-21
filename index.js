@@ -57,6 +57,6 @@ app.get('/', (req, res, next) => {
 })
 
 module.exports = {
-  url: 'kev.in.net',
+  url: 'www.kev.in.net',
   app: app
 }
